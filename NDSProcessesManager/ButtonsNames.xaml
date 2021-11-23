@@ -1,0 +1,15 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <system:String x:Key="btn_start_processes">Start Processes</system:String>
+    <system:String x:Key="btn_stop_processes">Stop Processes</system:String>
+    <system:String x:Key="btn_starting_processes">Starting Processes...</system:String>
+    
+    <system:String x:Key="btn_start_rtm">Start RTM</system:String>
+    <system:String x:Key="btn_stop_rtm">Stop RTM</system:String>
+    <system:String x:Key="btn_starting_rtm">Starting RTM...</system:String>
+    
+    <system:String x:Key="btn_start_client">Start Client</system:String>
+    <system:String x:Key="btn_stop_client">Stop Client</system:String>
+    <system:String x:Key="btn_starting_client">Starting Client...</system:String>
+</ResourceDictionary>
